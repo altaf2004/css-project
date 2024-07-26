@@ -1,0 +1,65 @@
+/*@font-face {
+    src: url();
+    font-family: Altaf;
+}
+body {
+     font-family: Altaf;
+}
+p {
+    color: red;
+    font-size: 18px;
+    line-height: 1.2;
+    letter-spacing: 10px;
+    word-spacing: 10px;
+    text-align: right;
+}*/
+
+/* body
+{
+    font-family: "Teachers", sans-serif;
+
+} */
+
+/* h1
+{
+    text-align: center;
+
+} */
+
+.box {
+    border: 5px solid black;
+    height: 200px;
+    width: 200px;
+    box-sizing: border-box;
+    padding: 10px 0 0 20px;
+}
+
+.red {
+    background-color: red;
+    margin-bottom: 40px;
+}
+
+.yellow {
+    background-color: yellowgreen;
+    margin-top: 40px;
+}
+
+
+
+
+button{
+    padding: 6px 12px;
+    border: 1px solid black;
+    border-radius: 6px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.red button {
+    background-color: rgb(20, 136, 238);
+    color: black;
+
+.yellow button {
+    background-color: black;
+    color: white;
+}
